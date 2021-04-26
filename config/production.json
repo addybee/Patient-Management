@@ -1,0 +1,6 @@
+{
+    "name":"PATIENT_MANAGEMENT - production",
+    "mail":{
+        "host":"dev-mail-server"
+    }
+}
